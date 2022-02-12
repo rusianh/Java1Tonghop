@@ -87,7 +87,7 @@ public class Bai18_MangBaiTapDoiXungDiChuyenPhanTu {
 		for(int i =0; i<k; i++) {
 			//Tao bien tam luu tru a[0]
 			tam = a[0];
-			for(int j = 0; i<a.length ; j++) {
+			for(int j = 0; i<a.length-2 ; j++) {
 				a[j]= a[j+1];
 			}
 			a[a.length -1]= tam;
