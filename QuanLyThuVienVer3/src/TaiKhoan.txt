@@ -1,0 +1,14 @@
+Chiến # chien # 1235 # student # 1 # STU
+Nam # nam@gmail.com # 1237 # student # 1 # STU
+Đại # dai@gmail.com # 1238 # student # 0 # STU
+Thắng # thang@gmail.com # 1232 # student # 1 # STU
+Mai # mai@gmail.com # 1232 # student # 0 # STU
+Cường # cuong@gmail.com # 1232 # student # 1 # STU
+Huy # huy@gmail.com # 1233 # student # 1 # STU
+Quỳnh # quynh@gmail.com # 1234 # student # 1 # STU
+Việt Anh # viet@gmail.com # 1232 # student # 1 # STU
+Vân Anh # vanan@gmail.com # 1232 # staff # 1 # TT
+Khánh Vy # khanhvy@gmail.com # 1232 # staff # 1 # TT
+đào yến # daoyen@gmail.com # 1232 # staff # 1 # TT
+admin1 # admin1@gmail.com # 1232 # staff # 1 # AD
+admin2 # admin2@gmail.com # 1232 # staff # 1 # AD

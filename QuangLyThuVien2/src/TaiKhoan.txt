@@ -1,0 +1,14 @@
+Chiến # chien@gmail.com # 1235 # student # active # STU
+Nam # nam@gmail.com # 1237 # student # active # STU
+Đại # dai@gmail.com # 1238 # student # lock # STU
+Thắng # thang@gmail.com # 1232 # student # active # STU
+Mai # mai@gmail.com # 1232 # student # lock # STU
+Cường # cuong@gmail.com # 1232 # student # active # STU
+Huy # huy@gmail.com # 1233 # student # active # STU
+Quỳnh # quynh@gmail.com # 1234 # student # active # STU
+Việt Anh # viet@gmail.com # 1232 # student # active # STU
+Vân Anh # vanan@gmail.com # 1232 # staff # active # TT
+Khánh Vy # khanhvy@gmail.com # 1232 # staff # active # TT
+đào yến # daoyen@gmail.com # 1232 # staff # active # TT
+admin1 # admin1@gmail.com # 1232 # staff # active # AD
+admin2 # admin2@gmail.com # 1232 # staff # active # AD

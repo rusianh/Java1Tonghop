@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Adf2FirstJavaFx.jnlp">
+  <information>
+    <title>Adf2FirstJavaFx</title>
+    <vendor>admin</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Adf2FirstJavaFx.jar" size="15672" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Adf2FirstJavaFx" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="first.java.fx.MainApplication"  name="Adf2FirstJavaFx" />
+  <update check="always"/>
+</jnlp>

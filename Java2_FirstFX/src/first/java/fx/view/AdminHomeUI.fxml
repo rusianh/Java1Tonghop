@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.TilePane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="526.0" prefWidth="786.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="first.java.fx.Controller.AdminHomeController">
+    <children>
+        <TilePane alignment="CENTER" layoutX="14.0" layoutY="300.0" prefHeight="73.0" prefWidth="746.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0">
+            <children>
+                <Button fx:id="btnAdd" mnemonicParsing="false" onAction="#onAddClick" prefHeight="31.0" prefWidth="120.0" text="Add">
+                    <TilePane.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                    </TilePane.margin>
+                </Button>
+                <Button fx:id="btnLock" mnemonicParsing="false" onAction="#onLockAccount" prefHeight="31.0" prefWidth="120.0" text="Lock" />
+                <Button fx:id="btnUnlock" mnemonicParsing="false" onAction="#onUnlockAccount" prefWidth="120.0" text="Unlock" />
+                <Button fx:id="btnReset" mnemonicParsing="false" onAction="#onResetPass" prefWidth="120.0" text="Reset" />
+                <Button fx:id="btnLogout" mnemonicParsing="false" onAction="#onLogOut" prefWidth="120.0" text="Logout" />
+            </children>
+        </TilePane>
+        <TableView fx:id="tbAccount" layoutX="14.0" layoutY="26.0" prefHeight="419.0" prefWidth="766.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+            <columns>
+                <TableColumn fx:id="tcEmail" prefWidth="401.0" text="Email" />
+                <TableColumn fx:id="tcType" minWidth="0.0" prefWidth="206.0" text="Type" />
+                <TableColumn fx:id="tcStatus" prefWidth="158.0" text="Status" />
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>
